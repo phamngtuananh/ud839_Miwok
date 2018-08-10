@@ -36,4 +36,10 @@
     <color name="category_phrases">#16AFCA</color>
 
     <color name="list_text_color">#FFFFFF</color>
+
+    <color name="tab_indicator">#FFFFFF</color>
+
+    <color name="tab_selected_text">#FFFFFF</color>
+
+    <color name="tab_unselected_text">#A8A19E</color>
 </resources>
